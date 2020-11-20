@@ -1,0 +1,9 @@
+{
+    
+        "txt_SearchBox": "#twotabsearchtextbox",
+        "btn_searchIcon": ".nav-search-submit > .nav-input",
+        "lbl_productName" : ".a-color-state",
+        "list_ProductNames" : "//span[@data-component-type='s-search-results']//span[contains(text(),'Apple iPhone 11 (64GB) - White')]"
+            
+    
+}
